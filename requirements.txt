@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+torch
+torchtext
+tensorflow  # for Keras Tokenizer if you prefer
+nltk
+matplotlib
